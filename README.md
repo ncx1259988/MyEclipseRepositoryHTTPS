@@ -1,0 +1,2 @@
+# MyEclipseRepositoryHTTPS
+MyEclipse Egit使用HTTPS方式提交
