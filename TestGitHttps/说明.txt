@@ -2,4 +2,4 @@ TestGit 使用的SSH方式提交，没问题，应clone仓库的时候就是使�
 TestGitHttps Egit clone使用的HTTPS地址，看看使用HTTPS方式可以提交不 真的是这样的，Git Repository视图clone使用的什么方式，
 以后项目的提交就只能使用什么方式了
 
-试试提交到别的仓库
+试试提交到别的仓库--提交不成功
