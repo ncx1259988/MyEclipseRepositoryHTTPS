@@ -1,0 +1,2 @@
+TestGit 使用的SSH方式提交，没问题，应clone仓库的时候就是使用的SSH地址，使用HTTPS方式就死活push不上去
+TestGitHttps Egit clone使用的HTTPS地址，看看使用HTTPS方式可以提交不
